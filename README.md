@@ -2,10 +2,10 @@
 
 ## Collaborators
 
-- Jack Stoetzel (Team Leader) [Github](https://github.com/Jack-Stoetzel)
+- Jack Stoetzel (Team Leader) [Github Link](https://github.com/Jack-Stoetzel)
 - Sam Disharoon (Me)
-- Jordan Welch [Github](https://github.com/JarOfJam)
-- Declan Sheehan [Githun](https://github.com/DeclanAS)
+- Jordan Welch [Github Link](https://github.com/JarOfJam)
+- Declan Sheehan [Github Link](https://github.com/DeclanAS)
 
 ## Languages Used; All using Android Studio
 
