@@ -40,6 +40,8 @@ Version 1.1 was released and although it implemented many quick fixes, it was st
 
 The new design got rid of the "hamburger" bar on the side and instead displays a **Grid** directly on the homepage with pictures corresponding with the tab it is located on. This is not only pleasing to the eye, but it makes navigation much nicer. Also added was a new **Alert** that displays over the logo in case the library staff decides to send an alert out.  It does not hinder the usablity of the app, just displays a message. There is also a **Search Bar** that allows the user to search the library's resources. It will also display a pop-up box if there are any search suggestions for even more assitance if desired. The current day's library hours are also displayed, as well as updated social media icons.
 
+![Homepage](https://user-images.githubusercontent.com/56033679/107548167-53353c00-6b9c-11eb-9198-93b278a59c14.jpg)
+
 #### New Features
 
 There are also many new features implemented to increase the longevity, usability, and accessability of the app. A few major features are:
